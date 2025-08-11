@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20420
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31911?allowInsecure=1#%E4%BC%8A%E6%9C%97+003
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31912?allowInsecure=1#%E4%BC%8A%E6%9C%97+001
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31913?allowInsecure=1#%E4%BC%8A%E6%9C%97+002
