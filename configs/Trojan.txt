@@ -22,10 +22,7 @@ trojan://203bbb1d-462c-4ade-b8b7-ba799aff1a1c@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v
 trojan://2440a39c-2e5e-4e76-96e1-46412298c1a0@sla.cn.964e995b760.gogodns.xin:43586?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:1256?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:1256?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:180?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:180?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:329?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C@ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD3%7C@ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:347?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:406?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
@@ -36,6 +33,11 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447?allowInsecure=1&sni
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:461?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.125:461?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.67:22006?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.67:22006?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40stairnode
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:193?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:193?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.78:193?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%207
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?allowInsecure=1#github.com/mianfeifq
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?allowInsecure=1#JP_AzadNet
@@ -101,6 +103,7 @@ trojan://711361f4-97c0-4bdb-a92e-3e6a37291e8e@sla.cn.964e995b760.gogodns.xin:466
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@jgwcc1.gaox.ml:443?sni=jgwcc1.gaox.ml#4.44%7C%E7%94%B2%E9%AA%A8%E6%96%87%E6%98%A5%E5%B7%9DAMD1trojan
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&ws=1&wspath=%2FctdmgeIg3NII3ibrzzKXJGy3S1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&ws=1&wspath=%2FctdmgeIg3NII3ibrzzKXJGy3S1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?security=tls&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=%2FctdmgeIg3NII3ibrzzKXJGy3S1#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=%2FctdmgeIg3NII3ibrzzKXJGy3S1#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
@@ -133,7 +136,6 @@ trojan://8d2d5953-d649-4034-94f2-72f2df2623da@jgwdb3.gaox.ml:443?sni=jgwdb3.gaox
 trojan://922985fe-9f57-4bef-8abf-370ae4c76b62@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42883?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://92e0bbdf-8577-4647-b4b3-ecd2ed03a05c@sla.cn.964e995b760.gogodns.xin:43397?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://94afcc56-cc1c-4cd4-8c82-1215cd052795@youtube-bai-piao-wang-zhe.nl.884899.cf:41196?allowInsecure=1#%5Btrojan%5D%F0%9F%87%B3%F0%9F%87%B1%5BNL%5Dyoutube-bai-piao-wang-zhe.nl.884899.cf%3A41196%2894afcc56-cc1c-4cd4-8c82-1215cd052795%29
-trojan://94cf288d-f764-4ce9-a547-a7228144f056@gerxyz.bm04.xyz:2053?security=tls&sni=gerxyz.bm04.xyz&type=grpc&serviceName=qwrqwtuotoiadsfhgjkzxnbcmakgkajhged%3D2048&mode=gun#%E7%BE%8E%E5%9B%BD%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps://a0a.xyz/%E3%80%9113%0D
 trojan://97d557df-6f6a-5bad-9483-600aba02da3a@au-01-gh3fg1.ferryhwp8ebm.com:42103?security=tls&sni=au-01-651.duuk.info&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.177.224-15543
 trojan://97d557df-6f6a-5bad-9483-600aba02da3a@au-01-gh3fg1.ferryhwp8ebm.com:42103?security=tls&sni=au-01-651.duuk.info&type=tcp&headerType=none&host=undefined#bardiafa-%25F0%259F%2587%25A8%25F0%259F%2587%25B3CN-120.232.177.224-15543
 trojan://97d557df-6f6a-5bad-9483-600aba02da3a@us-08-cz2dg2.ferryhwp8ebm.com:7308?security=tls&sni=us-08-650.duuk.info&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
@@ -153,6 +155,7 @@ trojan://Aimer@156.225.72.199:2096?security=tls&sni=epccd.ambercc.filegear-sg.me
 trojan://Aimer@167.68.5.248:2087?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://Aimer@188.164.159.246:2096?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://Aimer@38.148.253.85:11002?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E7%BE%8E%E5%9B%BD%28yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://Aimer@38.22.88.199:18026?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Aimer@45.67.214.41:2083?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Aimer@47.238.136.218:35961?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
@@ -315,7 +318,7 @@ trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?allowInsecure=1&
 trojan://c5df6ab5-49d4-4eee-9cc2-aec3f24e15ed@sla.cn.964e995b760.gogodns.xin:42883?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://c6a6376a-2c09-4bcc-971a-8cbecaea1291@aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://c6a6376a-2c09-4bcc-971a-8cbecaea1291@aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42883?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://c7a5a064-ac05-44ea-a449-0c0c7cae19f7@106.53.211.194:36026?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://c7a5a064-ac05-44ea-a449-0c0c7cae19f7@106.53.211.194:36026?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://c7a5a064-ac05-44ea-a449-0c0c7cae19f7@106.53.211.194:36026?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1#Relay_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_183
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw1-tg-data.amazonwebservicess.com:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
@@ -370,13 +373,12 @@ trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr3.microsoft-orgwly.vip:443?allow
 trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr4.microsoft-orgwly.vip:443?allowInsecure=1#YouTube%ef%bc%9aATOM%e7%a7%91%e6%8a%80_249
 trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr4.microsoft-orgwly.vip:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9A%2B%40shendu666
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?allowInsecure=1&sni=www.seetheworldjp.ga#US_AzadNet%284%29
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.186:8181?allowInsecure=0&sni=www.microsoft365.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40stairnode
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.186:8181?allowInsecure=1&sni=www.microsoft365.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.186:9233?allowInsecure=0&sni=steamcdn-a.akamaihd.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40stairnode
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.186:9233?allowInsecure=1&sni=steamcdn-a.akamaihd.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.215:9231?allowInsecure=0&sni=steampipe.akamaized.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.215:9231?allowInsecure=1&sni=steampipe.akamaized.net#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.215:9231?allowInsecure=1&sni=steampipe.akamaized.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.142:8123?allowInsecure=0&sni=upos-hz-mirrorakam.akamaized.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40stairnode
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.142:8123?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.142:9231?allowInsecure=0&sni=origin-a.akamaihd.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40stairnode
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.142:9231?allowInsecure=1&sni=origin-a.akamaihd.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.187:8233?allowInsecure=0&sni=steamcdn-a.akamaihd.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
+trojan://f60cd513-7b83-4b64-936c-f7e88e95dacd@120.240.118.187:8233?allowInsecure=1&sni=steamcdn-a.akamaihd.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://f89f8229-37e8-4a5d-88ed-8b6bf3dd2db2@sla.cn.964e995b760.gogodns.xin:34014?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://fa040e24-a1f1-4a0d-8149-82ad681fc4ce@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://fa040e24-a1f1-4a0d-8149-82ad681fc4ce@sla.cn.964e995b760.gogodns.xin:43397?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29

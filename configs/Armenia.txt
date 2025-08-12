@@ -1,1 +1,3 @@
+ss://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?type=ws&security=none#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@server444%20%5B3%5D
 trojan://Aimer@188.164.159.246:2096?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?type=ws&security=none#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@server444%20%5B3%5D
