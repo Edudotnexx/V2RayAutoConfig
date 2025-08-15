@@ -1,5 +1,3 @@
-trojan://be76ac23-8ff8-4afe-a86e-5153f4ce869d@8.134.93.116:25004?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
-trojan://be76ac23-8ff8-4afe-a86e-5153f4ce869d@8.134.93.116:25004?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE2%7C%40stairnode
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw2-tg-data.amazonwebservicess.com:443?security=tls&sni=scloudtw2-tg-data.amazonwebservicess.com&type=tcp&headerType=none#%E5%8F%B0%E6%B9%BE_youtube_lsj%E5%BC%80%E8%BD%A6_19
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw10-tg-data.amazonwebservicess.com:443?allowInsecure=1#%e5%8f%b0%e6%b9%be%e3%80%90YouTube-%e7%94%b1%e9%9b%b6%e9%96%8b%e5%a7%8b%e3%80%91_4
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?allowInsecure=1#%e5%8f%b0%e6%b9%be%e3%80%90YouTube-%e7%94%b1%e9%9b%b6%e9%96%8b%e5%a7%8b%e3%80%91_9
