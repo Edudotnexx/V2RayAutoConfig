@@ -1,7 +1,5 @@
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12024#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20431
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12024#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20431
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12028#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20313
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12028#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20313
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20718
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ@154.3.8.151:30067#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20718
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31911?allowInsecure=1#%E4%BC%8A%E6%9C%97+003
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31912?allowInsecure=1#%E4%BC%8A%E6%9C%97+001
 trojan://a31dca69-ce00-4a6f-81b5-7b4247f4cc3e@de.v2yyds.com:31913?allowInsecure=1#%E4%BC%8A%E6%9C%97+002
