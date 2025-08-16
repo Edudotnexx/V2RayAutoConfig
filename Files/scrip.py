@@ -356,7 +356,7 @@ async def main():
             country_counts[category] = count
 
     generate_simple_readme(protocol_counts, country_counts, categories_data,
-                          github_repo_path="Argh94/V2RayAutoConfig",
+                          github_repo_path="Edudotnexx/V2RayAutoConfig",
                           github_branch="main")
 
     logging.info("--- Script Finished ---")
